@@ -1,0 +1,2 @@
+require_relative 'country_test'
+require_relative 'medal_rankings_test'
